@@ -1,2 +1,1 @@
-# HelloWorld
-This is the first attempt for GitHub
+This is the hello message from readme branch
